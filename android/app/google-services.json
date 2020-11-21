@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950658510883",
+    "firebase_url": "https://login-screen-app-ddb3c.firebaseio.com",
+    "project_id": "login-screen-app-ddb3c",
+    "storage_bucket": "login-screen-app-ddb3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950658510883:android:1f39c2513a23bc8383c196",
+        "android_client_info": {
+          "package_name": "com.Pundrikaksha.login_screen_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950658510883-hs3g5qdtr0qp839l6tleku7n1m38la37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD_WXZ5WLFquhIJEwqO5Cp8lJ2Ou6QG8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950658510883-hs3g5qdtr0qp839l6tleku7n1m38la37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
